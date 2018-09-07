@@ -19,8 +19,8 @@ var quiet="hello";
 var love="I love you, Grandma.";
 
  function sayHiToGrandma(string){
-var loud=string;
-var quiet="hello";
+var loud=string.toLowerCase();
+var quiet=string.toUpperCase();
 var love="I love you, Grandma.";
    
    if (string.toLowerCase()===quiet){
