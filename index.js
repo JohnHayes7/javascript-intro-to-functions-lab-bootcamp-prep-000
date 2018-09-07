@@ -30,6 +30,8 @@ var love="I love you, Grandma.";
    }
  }
  
- sayHiToGrandma(quiet);
+ sayHiToGrandma(whisper(hello));
+ sayHiToGrandma(shout (HELLO));
+ sayHiToGrandma("I Love you, Grandma.")
    
    
