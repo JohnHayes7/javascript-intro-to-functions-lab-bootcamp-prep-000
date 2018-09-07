@@ -14,9 +14,6 @@ function logShout (hello){
    console.log(`${"hello"}`.toLowerCase())
  }
 
-var loud="HELLO";
-var quiet="hello";
-var love="I love you, Grandma.";
 
  function sayHiToGrandma(string){
 var loud=string.toLowerCase();
