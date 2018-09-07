@@ -30,6 +30,5 @@ var love="I love you, Grandma.";
    }
  }
  
- sayHiToGrandma
    
    
