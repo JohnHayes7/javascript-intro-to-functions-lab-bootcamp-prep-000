@@ -23,7 +23,7 @@ var love="I love you, Grandma.";
      return "YES INDEED";
    }
    if (string.toUpperCase()===loud){
-     return "YES INDEED";
+     return "YES INDEED!";
    }
    if (string===love){
      return "I love you, too.";
