@@ -19,7 +19,7 @@ var quiet="hello";
 var love="I love you, Grandma.";
 
  function sayHiToGrandma(string){
-   if (string.toLowerCase()===quiet){
+   if (string.toUpperCase()===quiet){
      return "I can't hear you!";
    }
    if (string.toLowerCase()===loud){
