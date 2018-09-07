@@ -19,7 +19,7 @@ var quiet="hello";
 var love="I love you, Grandma.";
 
  function sayHiToGrandma(string){
-var loud="HELLO";
+var loud=string;
 var quiet="hello";
 var love="I love you, Grandma.";
    
