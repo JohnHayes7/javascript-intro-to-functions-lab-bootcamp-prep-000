@@ -16,8 +16,8 @@ function logShout (hello){
 
 
  function sayHiToGrandma(string){
-var loud=string.toLowerCase();
-var quiet=string.toUpperCase();
+var loud=string.toUpperCase();
+var quiet=string.toLowerCase();
 var love="I love you, Grandma.";
    
    if (string===quiet){
