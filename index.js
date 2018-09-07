@@ -20,13 +20,13 @@ var love="I love you, Grandma.";
 
  function sayHiToGrandma(string){
    if (string.toLowerCase()===quiet){
-     return "I can't hear you!";
+     return ("I can't hear you!");
    }
    if (string.toUpperCase()===loud){
-     return "YES INDEED!";
+     return ("YES INDEED!");
    }
    if (string===love){
-     return "I love you, too.";
+     return ("I love you, too.");
    }
  }
  
