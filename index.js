@@ -24,13 +24,13 @@ var quiet="hello";
 var love="I love you, Grandma.";
    
    if (string.toLowerCase()===quiet){
-     return ("I can't hear you!");
+     return "I can't hear you!";
    }
     else if(string.toUpperCase()===loud){
-     return ("YES INDEED!");
+     return "YES INDEED!";
    }
     else if (string===love){
-     return ("I love you, too.");
+     return "I love you, too.";
    }
  }
  
