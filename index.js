@@ -22,10 +22,10 @@ var love="I love you, Grandma.";
    if (string.toLowerCase()===quiet){
      return ("I can't hear you!");
    }
-    else(string.toUpperCase()===loud){
+    else if(string.toUpperCase()===loud){
      return ("YES INDEED!");
    }
-   if (string===love){
+    else if (string===love){
      return ("I love you, too.");
    }
  }
